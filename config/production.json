@@ -4,7 +4,8 @@
     "USERNAME": "bitxgold_api",
     "DATABASE":"bitxgold_api",
     "PASSWORD":"bitxgold_api",
-    "HOST": "sg1-ts105.a2hosting.com"
+    "HOST": "sg1-ts105.a2hosting.com",
+    "PORT":3306
   },
   "INDBCONFIG": {
     "USERNAME":"admin",
