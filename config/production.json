@@ -4,7 +4,8 @@
     "USERNAME": "badf7755f357e0",
     "DATABASE":"heroku_e4f9f82e6ddf922",
     "PASSWORD":"8d236b6a",
-    "HOST": "us-cluster-east-01.k8s.cleardb.net"
+    "HOST": "us-cluster-east-01.k8s.cleardb.net",
+    "PORT":3306
   },
   "INDBCONFIG": {
     "USERNAME":"admin",
