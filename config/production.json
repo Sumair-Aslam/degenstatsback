@@ -1,11 +1,10 @@
 {
   "en":"production",
   "DBCONFIG": {
-    "USERNAME": "bitxgold_api",
-    "DATABASE":"bitxgold_api",
-    "PASSWORD":"bitxgold_api",
-    "HOST": "sg1-ts105.a2hosting.com",
-    "PORT":3306
+    "USERNAME": "badf7755f357e0",
+    "DATABASE":"heroku_e4f9f82e6ddf922",
+    "PASSWORD":"8d236b6a",
+    "HOST": "us-cluster-east-01.k8s.cleardb.net",
   },
   "INDBCONFIG": {
     "USERNAME":"admin",
